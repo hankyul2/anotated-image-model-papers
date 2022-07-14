@@ -1,3 +1,7 @@
+# My ignore
+annotated_papers/data/*
+annotated_papers/log/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
